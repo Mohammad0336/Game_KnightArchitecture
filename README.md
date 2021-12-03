@@ -1,5 +1,5 @@
 # Game_Knight_Architecture
-### Title: Game Knight
+## Project Title: Game Knight
 ### Group Members: 
 * Abbas Rizvi
 * Jad Eletry

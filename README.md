@@ -1,8 +1,9 @@
-# MovieKnight_Architecture
-### Title: Movie Knight
+# Game_Knight_Architecture
+### Title: Game Knight
 ### Group Members: Abbas Rizvi, MohammadHamza Asif, Jad Eletry, Shahzabe Mahmood
 
 ## Overview 
-Software design and architecture plans for the Movie Knight movie database system. 
+Software design and architecture plans for the Game Knight movie database system. 
 
-Movie Knight is a program designed to allow users tomanage their library of movies, and provides them with useful information related to each title.
+## Description
+GameKnight is a Game Library web application which can store and manage your game library across different platforms. The application lets gamers filter their game libraries to find and remember games from their past and find the games they want to play in the future. 

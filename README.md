@@ -1,10 +1,10 @@
 # Game_Knight_Architecture
 ### Title: Game Knight
 ### Group Members: 
-Abbas Rizvi
-Jad Eletry
-MohammadHamza Asif
-Shahzabe Mahmood
+* Abbas Rizvi
+* Jad Eletry
+* MohammadHamza Asif
+* Shahzabe Mahmood
 
 ## Overview 
 Software design and architecture plans for the Game Knight movie database system. 

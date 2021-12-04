@@ -12,8 +12,8 @@ Software design and architecture plans for the Game Knight movie database system
 GameKnight is a Game Library web application which can store and manage your game library across different platforms. The application lets gamers filter their game libraries to find and remember games from their past and find the games they want to play in the future. 
 
 ## Table of Contents
-1. [Introduction]()
-    * [Business Case & Introduction]()
+1. [Introduction](https://github.com/Mohammad0336/Game_KnightArchitecture/tree/main/Business%20Case)
+    * [Business Case & Introduction](https://github.com/Mohammad0336/Game_KnightArchitecture/blob/main/Business%20Case/Intro_BusinessCase.pdf)
 2. [System Requirements](https://github.com/Mohammad0336/Game_KnightArchitecture/tree/main/System%20Requirements)
     * [Use Case Model](https://github.com/Mohammad0336/Game_KnightArchitecture/blob/main/System%20Requirements/Use_Case_Model.pdf)
     * [Use Case Description](https://github.com/Mohammad0336/Game_KnightArchitecture/blob/main/System%20Requirements/Use_Case_Descriptions.pdf)
